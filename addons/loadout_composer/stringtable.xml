@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Advanced Inventory Loader">
+	<Package name="Package">
+		<Container name="Container">
+            <Key ID="STR_AIL_TITLE">
+                <Original>Loadout Composer</Original>
+            </Key>
+            <Key ID="STR_AIL_UNIFORM">
+                <Original>Uniform</Original>
+                <French>Uniforme</French>
+            </Key>
+            <Key ID="STR_AIL_VEST">
+                <Original>Vest</Original>
+                <French>Veste</French>
+            </Key>
+            <Key ID="STR_AIL_BACKPACK">
+                <Original>Backpack</Original>
+                <French>Sac à dos</French>
+            </Key>
+            <Key ID="STR_AIL_KEEP">
+                <Original>Keep</Original>
+                <French>Garder</French>
+            </Key>
+            <Key ID="STR_AIL_REPLACE">
+                <Original>Replace</Original>
+                <French>Remplacer</French>
+            </Key>
+            <Key ID="STR_AIL_MERGE">
+                <Original>Merge</Original>
+                <French>Fusionner</French>
+            </Key>
+            <Key ID="STR_AIL_ADD">
+                <Original>Add</Original>
+                <French>Ajouter</French>
+            </Key>
+	    </Container>
+	</Package>
+</Project>

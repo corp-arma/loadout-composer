@@ -1,0 +1,5 @@
+#include "..\includes\gui_ids.inc"
+#include "..\includes\gui_grid.inc"
+#include "..\includes\gui_styles.inc"
+#include "..\includes\gui_macros.inc"
+#include "..\includes\loadouts_macros.inc"

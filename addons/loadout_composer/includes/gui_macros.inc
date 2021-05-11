@@ -1,0 +1,1 @@
+#define AIL_DISPLAY (uiNamespace getVariable "AIL_Display")
